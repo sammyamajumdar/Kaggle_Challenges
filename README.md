@@ -5,3 +5,5 @@ Implementations of challenges from Kaggle.
 Accuracy: 95%  
 2) Chest X-ray (pneumonia) - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  
 Accuracy: 92%  
+3) NumtaDB dataset (BengaliAI) - https://www.kaggle.com/BengaliAI/numta  
+Accuracy: 96.03%
